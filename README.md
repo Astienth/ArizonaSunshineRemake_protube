@@ -19,7 +19,7 @@ This mod adds provolver/protube support to the game.</br></br>
 
 4. **Run the game once and quit it**
 
-5. Extract the contents of [ArizonaSunshine2_protube.zip](https://github.com/Astienth/ArizonaSunshine2_protube/releases/download/1.0/ArizonaSunshine2_protube.zip) inside your game in the mods directory “STEAM\steamapps\common\Arizona Sunshine 2\Mods” directory.
+5. Extract the contents of [ArizonaSunshineRemake_protube.zip](https://github.com/Astienth/ArizonaSunshineRemake_protube/releases/download/1.0.0/ArizonaSunshineRemake_protube.zip) inside your game in the “\Mods” directory.
 
 7. Turn your provolver on and run the game
 
